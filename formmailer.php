@@ -3,8 +3,6 @@
 // dB Masters' PHP FormM@iler, Copyright (c) 2021 dB Masters Multimedia
 // http://www.dbmasters.net/
 // FormMailer comes with ABSOLUTELY NO WARRANTY
-// Licensed under the AGPL
-// See license.txt and readme.txt for details
 ////////////////////////////////////////////////////////////////////////////
 // General Variables
 	$check_referrer="no";
